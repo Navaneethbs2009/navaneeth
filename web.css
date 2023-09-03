@@ -1,0 +1,99 @@
+body{
+ background-color: aqua;
+ bac
+}
+.nav{
+ background-color:rgb(245, 245, 245);
+ background-size:100%;
+ overflow: hidden;
+ box-sizing: border-box;
+ 
+ text-decoration: none;
+ 
+}
+.nav a:hover{
+    color: rgb(238, 154, 9);
+
+}
+.nav h1:hover{
+    color: rgb(255, 195, 44);
+}
+.nav a{
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 23px;
+
+}
+li {
+    list-style: none;
+    font-family: cursive;
+    
+}
+
+.mid{
+    padding-left: 85%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.main{
+    font-size: large;
+    font-style: oblique;
+    font: bold;
+}
+.right {
+    background-color: aqua;
+    text-align: center;
+    padding-top: 120px;
+}
+.right p{
+    font-size: 50px;
+    
+}
+.right h1{
+    font-size:50px ;
+    font-weight: 1000;
+}
+.work h1{
+    text-align: center;
+}
+.work {
+    background-color:rgb(201, 250, 255);
+
+    padding: 150px;
+    color: rgb(229, 33, 33);
+}
+.work h1 {
+    width: 10px;
+    font-size: 100px;
+    padding-left: 40%;
+}
+.work h1:hover{
+    color: gold;
+}
+.card image{
+    
+}
+.card h2 {
+    display: flex;
+    text-align: center;
+    padding-left: 23%;
+    font: bold;
+    font-family: 'Times New Roman', Times, serif;
+font-size: 50px;
+
+}
+.card h2:hover{
+    color: rgb(0, 0, 0);
+}
+.form-container{
+    text-align: center;
+    font-size: 19px;
+}
+.row {
+    background-color: aquamarine;
+padding-bottom: 10%;
+ text-align: center;
+}
+
